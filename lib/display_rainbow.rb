@@ -8,4 +8,4 @@ def display_rainbow(colors = [`red`, `orange`, `yellow`, `green`, `blue`, `indig
   print "V:#{colors[6]}"
 end
 
-display_rainbow
+display_rainbow(colors)
